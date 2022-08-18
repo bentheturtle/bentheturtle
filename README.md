@@ -5,16 +5,16 @@
   <img src="https://media.giphy.com/media/kKzFYlqCv7yDe/giphy.gif" width="200"/>
 </div>
 
-<h2 align="center">Hi 👋, Im Ben</h2>
+<h2 align="center">Hi ??, Im Ben</h2>
 
 ###
 
-<p align="left">🌱 I’m currently learning WPF<br><br>🤝 I’m looking for help with finding a girlfriend<br><br>📫 How to reach me contact@bentheturtle.me</p>
+<p align="left">?? I�m currently learning WPF<br><br>?? I�m looking for help with finding a girlfriend<br><br>?? How to reach me contact@bentheturtle.me</p>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=bentheturtle" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=bentheturtle" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=bentheturtle" height="120" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=bentheturtle" height="120" alt="languages graph"  />
 </div>
 
 ###
