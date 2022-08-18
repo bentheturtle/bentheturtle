@@ -5,11 +5,11 @@
   <img src="https://media.giphy.com/media/kKzFYlqCv7yDe/giphy.gif" width="200"/>
 </div>
 
-<h2 align="center">Hi ??, Im Ben</h2>
+<h2 align="center">Hi 👋, Im Ben</h2>
 
 ###
 
-<p align="left">?? I�m currently learning WPF<br><br>?? I�m looking for help with finding a girlfriend<br><br>?? How to reach me contact@bentheturtle.me</p>
+<p align="left">🌱 I’m currently learning WPF<br><br>🤝 I’m looking for help with finding a girlfriend<br><br>📫 How to reach me contact@bentheturtle.me</p>
 
 
 <div align="center">
