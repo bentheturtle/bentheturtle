@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning React<br><br>🤝 My favorate languages are C and C++<br><br>📫 How to reach me benderyyt@gmail.com</p>
+<p align="left">🌱 I’m currently learning ReactJS<br><br>🤝 My favorate languages are C and C++<br><br>📫 How to reach me benderyyt@gmail.com</p>
 
 
 <div align="center">
