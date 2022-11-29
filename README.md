@@ -2,14 +2,14 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/kKzFYlqCv7yDe/giphy.gif" width="200"/>
+  <img src="https://gifdb.com/images/high/happy-turtle-waving-hello-7s4j1yxp3r4eoqp0.gif" width="200"/>
 </div>
 
 <h2 align="center">Hi 👋, Im Ben</h2>
 
 ###
 
-<p align="left">🌱 I’m currently learning WPF<br><br>🤝 I’m looking for help with finding a girlfriend<br><br>📫 How to reach me contact@bentheturtle.me</p>
+<p align="left">🌱 I’m currently learning React<br><br>🤝 My favorate languages are C and C++<br><br>📫 How to reach me benderyyt@gmail.com</p>
 
 
 <div align="center">
@@ -52,10 +52,8 @@
   <a href="https://www.linkedin.com/in/ben-dery-0315b5240" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.twitch.tv/bentheturtletwitch" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="mailto:contact@bentheturtle.me" target="_blank">
+  <a href="mailto:benderyyt@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://youtube.com/c/bentheturtle" target="_blank">
